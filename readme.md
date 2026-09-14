@@ -372,27 +372,30 @@ docker-portfolio-deployment/
 
 ### Docker Build
 
-![Docker Build](screenshots/docker-build.png)
+![Docker Build](screenshots/docker logs -v1.png)
+![Docker Build](screenshots/docker logs -v2.png)
 
 ### Docker Images
 
-![Docker Images](screenshots/docker-images.png)
+![Docker Images](screenshots/docker images -v1.png)
+![Docker Images](screenshots/docker images -v2.png)
 
 ### Docker Container
 
-![Docker PS](screenshots/docker-ps.png)
+![Docker PS](screenshots/running container v1.png)
+![Docker PS](screenshots/running container v2.png)
 
 ### Version 1 Application
 
-![Browser Version 1](screenshots/browser-v1.png)
+![Browser Version 1](screenshots/v1.png)
 
 ### Docker Hub
 
-![Docker Hub](screenshots/dockerhub.png)
+![Docker Hub](screenshots/docker hub.png)
 
 ### Version 2 Application
 
-![Browser Version 2](screenshots/browser-v2.png)
+![Browser Version 2](screenshots/v2.png)
 
 ---
 
