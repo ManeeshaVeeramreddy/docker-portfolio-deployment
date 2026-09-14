@@ -197,7 +197,7 @@ The modified v2 image was pushed to Docker Hub and deployed on a separate Ubuntu
 The final v2 modification can be verified in:
 
 ```text
-screenshots/browser-v2.png
+screenshots/v2.png
 ```
 
 ---
@@ -358,12 +358,15 @@ docker-portfolio-deployment/
 ├── README.md
 │
 └── screenshots/
-    ├── docker-build.png
-    ├── docker-images.png
-    ├── docker-ps.png
-    ├── browser-v1.png
-    ├── dockerhub.png
-    └── browser-v2.png
+    ├── docker hub.png
+    ├── docker images-v1.png
+    ├── docker images-v2.png
+    ├── docker logs-v2.png
+    ├── docker logs-v1.png
+    ├── running container v1.png
+    ├── running container v2.png
+    ├── v1.png
+    └── v2.png
 ```
 
 ---
@@ -372,18 +375,18 @@ docker-portfolio-deployment/
 
 ### Docker Build
 
-![Docker Build](screenshots/docker logs -v1.png)
-![Docker Build](screenshots/docker logs -v2.png)
+![Docker Build](screenshots/docker logs-v1.png)
+![Docker Build](screenshots/docker logs-v2.png)
 
 ### Docker Images
 
-![Docker Images](screenshots/docker images -v1.png)
-![Docker Images](screenshots/docker images -v2.png)
+![Docker Images](screenshots/docker images-v1.png)
+![Docker Images](screenshots/docker images-v2.png)
 
 ### Docker Container
 
-![Docker PS](screenshots/running container v1.png)
-![Docker PS](screenshots/running container v2.png)
+![Docker PS](screenshots/running containerv1.png)
+![Docker PS](screenshots/running containerv2.png)
 
 ### Version 1 Application
 
