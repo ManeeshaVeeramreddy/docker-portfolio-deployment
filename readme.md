@@ -1,4 +1,4 @@
-<img width="947" height="437" alt="image" src="https://github.com/user-attachments/assets/79ca1bc4-0592-49b3-8042-1670dc37fc32" /># Portfolio Web Application – Docker Containerization and VM Deployment
+# Portfolio Web Application – Docker Containerization and VM Deployment
 
 ## 1. Application Name
 
