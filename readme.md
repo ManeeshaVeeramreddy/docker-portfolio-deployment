@@ -1,4 +1,4 @@
-# Portfolio Web Application – Docker Containerization and VM Deployment
+<img width="947" height="437" alt="image" src="https://github.com/user-attachments/assets/79ca1bc4-0592-49b3-8042-1670dc37fc32" /># Portfolio Web Application – Docker Containerization and VM Deployment
 
 ## 1. Application Name
 
@@ -276,7 +276,7 @@ The modified Version 2 portfolio application was displayed successfully.
 
 The final Version 2 application running on the Ubuntu VM is shown below:
 
-![Version 2 Portfolio Application](screenshots/browser-v2.png)
+![Version 2 Portfolio Application](screenshots/vm.png)
 
 The screenshot demonstrates that the modified v2 application was successfully deployed and accessed through the Ubuntu VM IP address.
 
@@ -366,7 +366,8 @@ docker-portfolio-deployment/
     ├── running container v1.png
     ├── running container v2.png
     ├── v1.png
-    └── v2.png
+    ├── v2.png
+    └── vm.png
 ```
 
 ---
